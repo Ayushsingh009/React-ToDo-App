@@ -46,7 +46,6 @@ Since this is just a learning project, I may extend it further to explore more a
 - 🔔 **Reminders & Notifications** → Notify users for pending tasks  
 - 📊 **Task Categories & Filters** → Organize tasks by tags, priority, or status  
 - 🎤 **Voice Input (fun experiment)** → Add tasks via microphone using Speech API  
-- 🚀 **Deployment** → Host on Vercel/Netlify as a shareable demo  
 
 ---
 
